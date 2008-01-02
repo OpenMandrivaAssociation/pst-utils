@@ -8,6 +8,7 @@ License:	GPL
 Group:		Networking/Mail
 URL:		http://alioth.debian.org/projects/libpst/
 Source0:	http://alioth.debian.org/download.php/844/libpst-%{version}.tar.bz2
+BuildRoot: 	%{_tmppath}/%{name}-buildroot
 
 %description
 LibPST provides functions in library form for accessing Outlook's
