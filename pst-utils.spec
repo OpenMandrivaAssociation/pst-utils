@@ -3,7 +3,7 @@
 Summary:	Extracts emails from MS Outlook PST files
 Name:   	pst-utils
 Version: 	0.5.2
-Release: 	%mkrel 4
+Release: 	%mkrel 5
 License:	GPL
 Group:		Networking/Mail
 URL:		http://alioth.debian.org/projects/libpst/
