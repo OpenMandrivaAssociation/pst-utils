@@ -46,3 +46,39 @@ rm -rf %{buildroot}
 %{_mandir}/man1/*
 
 
+
+
+%changelog
+* Fri Sep 04 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.5.2-5mdv2010.0
++ Revision: 430811
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.5.2-4mdv2009.0
++ Revision: 259335
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.5.2-3mdv2009.0
++ Revision: 247236
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 0.5.2-1mdv2008.1
++ Revision: 140737
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Fri Jan 26 2007 Oden Eriksson <oeriksson@mandriva.com> 0.5.2-1mdv2007.0
++ Revision: 113933
+- Import pst-utils
+
+* Fri Jan 26 2007 Oden Eriksson <oeriksson@mandriva.com> 0.5.2-1mdv2007.1
+- 0.5.2
+
+* Sun Dec 25 2005 Oden Eriksson <oeriksson@mandriva.com> 0.5.1-1mdk
+- 0.5.1
+
+* Sat Oct 16 2004 Oden Eriksson <oeriksson@mandrakesoft.com> 0.3.4-2mdk
+- rpmbuildupdated
+
