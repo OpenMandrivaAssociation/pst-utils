@@ -6,7 +6,7 @@ Version: 	0.5.2
 Release: 	6
 License:	GPL
 Group:		Networking/Mail
-URL:		http://alioth.debian.org/projects/libpst/
+URL:		https://alioth.debian.org/projects/libpst/
 Source0:	http://alioth.debian.org/download.php/844/libpst-%{version}.tar.bz2
 BuildRoot: 	%{_tmppath}/%{name}-buildroot
 
