@@ -10,6 +10,7 @@ URL:		https://alioth.debian.org/projects/libpst/
 Source0:	http://alioth.debian.org/download.php/844/libpst-%{version}.tar.bz2
 BuildRoot: 	%{_tmppath}/%{name}-buildroot
 
+BuildRequires:	make
 %description
 LibPST provides functions in library form for accessing Outlook's
 Personal Folders. Included with this library is a program that
